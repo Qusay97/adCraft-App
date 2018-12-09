@@ -13,7 +13,7 @@ var advertiser = {
   numFeedback: 70,
   rateAvg: 5,
   location: "amman",
-  id_categories: 1,
+  category: 1,
   id_roles: 2,
   phoneNumber: "0797777770",
   password: "helloworld",
